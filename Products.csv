@@ -1,0 +1,51 @@
+id,name,uom,power
+1,Toyota,EA,100
+2,Honda,EA,200
+3,Nissan,EA,300
+4,Mazda,EA,400
+5,Hyundai,EA,500
+6,Kia,EA,600
+7,Ford,EA,700
+8,Chevrolet,EA,800
+9,Jeep,EA,900
+10,Dodge,EA,1000
+11,Ram,EA,1100
+12,Chrysler,EA,1200
+13,GMC,EA,1300
+14,Buick,EA,1400
+15,Cadillac,EA,1500
+16,Tesla,EA,1600
+17,BMW,EA,1700
+18,Mercedes-Benz,EA,1800
+19,Audi,EA,1900
+20,Volkswagen,EA,2000
+21,Porsche,EA,2100
+22,Land Rover,EA,2200
+23,Jaguar,EA,2300
+24,Mini,EA,2400
+25,Bentley,EA,2500
+26,Rolls-Royce,EA,2600
+27,Lamborghini,EA,2700
+28,Ferrari,EA,2800
+29,Mclaren,EA,2900
+30,Aston Martin,EA,3000
+31,Bugatti,EA,3100
+32,Pagani,EA,3200
+33,Koenigsegg,EA,3300
+34,Rimac,EA,3400
+35,Hennessey,EA,3500
+36,Lykan,EA,3600
+37,W Motors,EA,3700
+38,DS Automobiles,EA,3800
+39,Peugeot,EA,3900
+40,Citroen,EA,4000
+41,Renault,EA,4100
+42,Volvo,EA,4200
+43,Jaguar Land Rover,EA,4300
+44,NIO,EA,4400
+45,BYD,EA,4500
+46,BAIC,EA,4600
+47,ZOTYE,EA,4700
+48,Geely,EA,4800
+49,SAIC,EA,4900
+50,Great Wall,EA,5000
